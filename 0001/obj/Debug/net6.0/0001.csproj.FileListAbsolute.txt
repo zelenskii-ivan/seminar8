@@ -1,0 +1,15 @@
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/bin/Debug/net6.0/0001
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/bin/Debug/net6.0/0001.deps.json
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/bin/Debug/net6.0/0001.runtimeconfig.json
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/bin/Debug/net6.0/0001.dll
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/bin/Debug/net6.0/0001.pdb
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/0001.csproj.AssemblyReference.cache
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/0001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/0001.AssemblyInfoInputs.cache
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/0001.AssemblyInfo.cs
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/0001.csproj.CoreCompileInputs.cache
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/0001.dll
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/refint/0001.dll
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/0001.pdb
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/0001.genruntimeconfig.cache
+/Users/ivanzelenskiy/Desktop/Seminar8/0001/obj/Debug/net6.0/ref/0001.dll
